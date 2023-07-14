@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi, I'm ADEYINKA!
+Cybersecurity Professional, YouTuber
+👨‍💻 Cybersecurity projects Development Projects:
+Active home 
+Hello world project
 
-<!--
-**Adeneganmicheal/adeneganmicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📺 Popular YouTube Videos
+How to get into Cybersecurity Starting From Zero
+A Day in the Life of a Cybersecurity Anayst
+Active user
+Is WGU Legit?
+🤳 Connect with me:
