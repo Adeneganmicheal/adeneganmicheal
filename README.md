@@ -33,9 +33,9 @@
   - <h2>📺 My learning streak </h2>
   
 <h3>python for penetration testing</h3>  
- <h3>omain 1: Security Principles (CC)</h3>
+ <h3> Domain 1: Security Principles (CC)</h3>
 This badge is earned once participants complete the (ISC)2 CC: Security Principles Domain
-Course Name:Official ISC2 CC Online Self-Paced Training
+Course Name: Official ISC2 CC Online Self-Paced Training
 Expiry Date: Never
 Issue Date: Wednesday, June 28, 2023, 8:17 AM
 Issuer:(ISC)² Learn
