@@ -31,8 +31,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
   - <h2>📺 My learning streak </h2>
-  python for penetration testing
- -<h2> Domain 1: Security Principles (CC) </h2>
+<h3>python for penetration testing</h3>  
+ 
+  Domain 1: Security Principles (CC) </h2>
 This badge is earned once participants complete the (ISC)2 CC: Security Principles Domain
 Course Name:Official ISC2 CC Online Self-Paced Training
 Expiry Date: Never
