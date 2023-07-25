@@ -32,6 +32,12 @@
     
   - <h2>📺 My learning streak </h2>
   python for penetration testing
+  Domain 1: Security Principles (CC)
+This badge is earned once participants complete the (ISC)2 CC: Security Principles Domain
+Course Name:Official ISC2 CC Online Self-Paced Training
+Expiry Date: Never
+Issue Date: Wednesday, June 28, 2023, 8:17 AM
+Issuer:(ISC)² Learn
 
 
 <h2>📺 Popular YouTube Videos</h2>
