@@ -40,6 +40,7 @@ Expiry Date: Never
 Issue Date: Wednesday, June 28, 2023, 8:17 AM
 Issuer:(ISC)² Learn
 <h3> I learnt wireshark </h3>
+<h3> Intro to Offensive Security - I have just completed this room! Check it out:  https://tryhackme.com/room/introtooffensivesecurity #tryhackme #offensivesecurity #introtooffensivesecurity via @realtryhackme</h3>
 
 
 <h2>📺 Popular YouTube Videos</h2>
