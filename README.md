@@ -42,6 +42,9 @@ Issuer:(ISC)² Learn
 <h3> I learnt wireshark </h3>
 <h3> Intro to Offensive Security - I have just completed this room! Check it out:  https://tryhackme.com/room/introtooffensivesecurity #tryhackme #offensivesecurity #introtooffensivesecurity via @realtryhackme</h3>
 
+<h2> TRYHACKME.COM</h2>
+<h3>https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3LSEBCSUPV.png</h3>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -51,15 +54,14 @@ Issuer:(ISC)² Learn
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> TRYHACKME.COM</h2>
-<h3>https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3LSEBCSUPV.png</h3>
-<h2> 🤳 Connect with me:</h2>
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<h2> 🤳 Connect with me:</h2>
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
