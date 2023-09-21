@@ -51,6 +51,8 @@ Issuer:(ISC)² Learn
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+<h2> TRYHACKME.COM</h2>
+<h3>https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3LSEBCSUPV.png</h3>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
